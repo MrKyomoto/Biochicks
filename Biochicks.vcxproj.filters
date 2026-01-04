@@ -41,5 +41,14 @@
     <ClInclude Include="chicken.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="chicken_fast.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chicken_medium.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chicken_slow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -139,6 +139,9 @@
     <ClInclude Include="bullet.h" />
     <ClInclude Include="camera.h" />
     <ClInclude Include="chicken.h" />
+    <ClInclude Include="chicken_fast.h" />
+    <ClInclude Include="chicken_medium.h" />
+    <ClInclude Include="chicken_slow.h" />
     <ClInclude Include="timer.h" />
     <ClInclude Include="vector2.h" />
   </ItemGroup>
