@@ -91,7 +91,6 @@ public:
 
 	void on_render(const Camera& camera) const {
 		const Frame& frame = frame_list[index_frame];
-		const Vector2& pos_camera = camera.get_position();
 
 		SDL_FRect rect_dst;
 		// NOTE: 3. 这里的on_render本意是把动画渲染到position处,position位于图像中心位置,如果不减去rect_src的w和h则会把图像左上角渲染到position处
